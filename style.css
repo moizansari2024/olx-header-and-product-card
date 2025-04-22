@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 0;
+}
+
+
+.header-section {
+    border-bottom: 1px solid #d8dfe0;
+
+}
+
+.outer-container {
+    margin: 14px 0px 5px 0px;
+
+}
+
+.inner-container {
+    /* margin: 12px 5px 10px 5px ; */
+    display: flex;
+    align-items: center;
+
+
+
+
+}
+
+.logo {
+    margin-right: 40px;
+}
+
+
+.nav-icon-link {
+    text-decoration: none;
+    /* color: ; */
+    margin: 0px 50px 0px 0px;
+
+}
+
+.nav-icon-link :hover {
+    color: rgb(0, 255, 136);
+}
+
+.nav-icon {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.car-icon {
+    padding: 10px 8px 10px 8px;
+    background-color: bisque;
+    border-radius: 50%;
+    background: linear-gradient(180deg, rgba(0, 47, 52, .16), rgba(0, 47, 52, .01) 81.77%, rgba(0, 47, 52, .01));
+
+
+}
+
+.car-icon svg {}
+
+.nav-icon span {
+    font-weight: 700;
+    color: #002f34;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.main {
+    padding: 8px 0px 15px 0px;
+}
+
+.input-one-and-two-flex {
+    display: flex;
+    align-items: center;
+
+}
+
+.input-box {
+    display: flex;
+    align-items: center;
+    border: 1px solid #d8dfe0;
+    /* width: max-content; */
+    height: 48px;
+    background-color: #fff;
+    border-radius: 3px;
+    margin-right: 15px;
+
+}
+
+.location-icon {
+    margin-left: .8rem;
+}
+
+.type-input {}
+
+.type-input input {
+    outline: none;
+    border: none;
+    font-family: Roboto, Helvetica, sans-serif;
+    padding: 0 0 0 1.2rem;
+    color: #002f34;
+    font-size: 17px;
+
+}
+
+.aroow {}
+
+.arrow-icon {
+    margin: 0px 11px 0px 0px;
+
+}
+
+.arrow-icon svg {
+    height: 30px;
+    cursor: pointer;
+
+}
+
+.input-box-two {
+    border: 1px solid #d8dfe0;
+    /* width: max-content; */
+    height: 48px;
+    background-color: #fff;
+    border-radius: 3px;
+    margin-right: 35px;
+}
+
+.type-input-two {
+    display: flex;
+    align-items: center;
+
+}
+
+.type-input-two input {
+    outline: none;
+    border: none;
+    font-size: 17px;
+    color: #002f34;
+    padding: 0px 0px 0px 10px;
+    width: 320px;
+}
+
+.search-icon {
+    padding: 0px 0px 0px 0px;
+}
+
+.search-icon button {
+    border: none;
+    padding: 9px;
+    background-color: #002f34;
+    cursor: pointer;
+    border-radius: 0 .4rem .4rem 0;
+    height: 48px;
+    width: 48px;
+}
+
+.search-icon svg {
+    height: 25px;
+    color: #fff;
+}
+
+
+.rigth-icons-parent {
+    display: flex;
+    align-items: center;
+
+}
+
+.right-icons-flex {
+    display: flex;
+    align-items: center;
+}
+
+.chat-icon {
+    margin: 0px 7px 0px 0px;
+
+
+}
+
+.chat-icon img {
+    padding: 8px;
+
+}
+
+.chat-icon a :hover {
+    background-color: rgb(233, 245, 241);
+    border-radius: 50%;
+
+}
+
+.bell-icon {
+    margin: 0px 7px 0px 0px;
+}
+
+.bell-icon img {
+    padding: 8px;
+}
+
+.bell-icon a :hover {
+    background-color: rgb(233, 245, 241);
+    border-radius: 50%;
+}
+
+.cartoon-icon {
+    margin: 0px 3px 0px 0px;
+}
+
+.right-down-arrow {}
+
+
+.right-down-arrow a img {
+    height: 16px;
+}
+
+.rigth-button {
+    position: relative;
+    margin: 0px 0px 0px 14px;
+}
+
+.button-border {
+    display: flex;
+
+}
+
+.button-border button {
+    background: none;
+    border: none;
+}
+
+.button-plus-icon {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 15px;
+    left: 25px;
+    gap: 5px;
+
+}
+
+.button-plus-icon span {
+    color: #002f34;
+    font-weight: 800;
+
+}
+
+.card-section{
+
+}
+
+
+.flex-card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.product-card{
+
+}
+
+.product-card a{
+    text-decoration: none;
+    color: #002f34;
+}
+
+.card{
+
+}
+
+.card-body{
+
+}
+
+
+.price-and-icon-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.price{
+
+}
+
+.price h5{
+    margin:0px !important;
+    color: #002f34;
+}
+
+.love-symbol span{
+font-size: 32px ;
+color: #002f34;
+}
