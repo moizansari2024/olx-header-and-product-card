@@ -6,13 +6,18 @@
     text-decoration: none !important;
 }
 
+.max-container {
+    margin: 0px auto;
+    max-width: 1024px;
+}
+
 .header-section {
     border-bottom: 1px solid #d8dfe0;
     position: sticky;
     top: 0px;
     z-index: 99999999;
     background-color: white;
-    /* padding: 1px 0px 0px 0px; */
+
 }
 
 .outer-container {
@@ -331,14 +336,10 @@
     height: auto;
 }
 
-.category img {
-    /* width: 90px;
-    height: 90px; */
-}
-
-
-
-
+/* .category img {
+    width: 90px;
+    height: 90px;
+} */
 
 .section-title {
     display: flex;
@@ -453,8 +454,6 @@
 
 }
 
-
-
 .product-title a {
     font-size: 16px;
     font-weight: 400;
@@ -524,7 +523,6 @@
     height: 210px;
 }
 
-
 .app {
     align-items: center;
     background-color: #f9f9f9;
@@ -587,7 +585,6 @@
     gap: 10px;
 }
 
-
 .olx-footer {
     background-color: #ebeeef;
     font-family: Arial, sans-serif;
@@ -603,7 +600,6 @@
 
 .footer-column {
     flex: 1 1 180px;
-    /* margin: 10px; */
 }
 
 
@@ -641,7 +637,6 @@
 .social-icons a {
     display: inline-block;
     margin-right: 10px;
-
 }
 
 .social-icons img {
@@ -652,7 +647,6 @@
 .app-badges {
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
     margin: 25px 0px 0px 0px;
 }
 
@@ -689,14 +683,6 @@
 
 
 @media screen and (max-width: 400px) {
-    /* .header-section {
-        border-bottom: 1px solid #d8dfe0;
-        position: sticky;
-        top: 0px;
-        z-index: 99999999;
-        background-color: white;
-    } */
-
     .outer-container {
         margin: 0px !important;
     }
