@@ -55,7 +55,7 @@
     background: linear-gradient(180deg, rgba(0, 47, 52, .16), rgba(0, 47, 52, .01) 81.77%, rgba(0, 47, 52, .01));
 }
 
-.car-icon svg {}
+/* .car-icon svg {} */
 
 .nav-icon span {
     font-weight: 700;
@@ -102,7 +102,7 @@
     font-size: 17px;
 }
 
-.aroow {}
+/* .aroow {} */
 
 .arrow-icon {
     margin: 0px 11px 0px 0px;
@@ -199,7 +199,7 @@
     margin: 0px 3px 0px 0px;
 }
 
-.right-down-arrow {}
+/* .right-down-arrow {} */
 
 
 .right-down-arrow a img {
@@ -263,7 +263,7 @@
     line-height: 1.8rem;
 }
 
-.dropdown-arrow {}
+/* .dropdown-arrow {} */
 
 .dropdown-arrow a img {
     height: 16px;
@@ -271,7 +271,7 @@
     margin: 4px 0px 0px 10px;
 }
 
-.link {}
+/* .link {} */
 
 .link a {
     text-decoration: none;
@@ -296,7 +296,7 @@
 
 }
 
-.category-image-section {}
+/* .category-image-section {} */
 
 .categories {
     display: flex;
@@ -687,7 +687,7 @@
         margin: 0px !important;
     }
 
-    .inner-container {}
+    /* .inner-container {} */
 
 
     .logo {
@@ -709,7 +709,7 @@
 
     }
 
-    .car-icon {}
+    /* .car-icon {} */
 
     .main {
         padding: 0px;
@@ -722,7 +722,6 @@
     }
 
     .input-box {
-        /* margin-right: 7px;/ */
         height: 40px;
         width: 100%;
         margin: 0px;
@@ -756,9 +755,9 @@
         max-width: 400px;
     }
 
-    .type-input-two {
-        /* width: 400px; */
-    }
+    /* .type-input-two {
+ 
+    } */
 
     .type-input-two input {
         width: 100%;
@@ -786,9 +785,9 @@
         flex-direction: column;
     }
 
-    .categories a {}
+    /* .categories a {}
 
-    .picture img {}
+    .picture img {} */
 
     .olx {
         max-width: 400px;
@@ -798,7 +797,7 @@
         width: 100%;
     }
 
-    .title-flex {}
+    /* .title-flex {} */
 
     .title-mobile p {
         font-size: 16px;
@@ -808,11 +807,11 @@
         font-size: 14px;
     }
 
-    .dropdown-arrow {}
+    /* .dropdown-arrow {}
 
     .title a {}
 
-    .links-flex {}
+    .links-flex {} */
 
 
     .categories {
@@ -820,10 +819,10 @@
         justify-content: center;
     }
 
-    .card {
-        /* width: 197px; */
-        /* margin-bottom: 15px; */
-    }
+    /* .card {
+        width: 197px;
+        margin-bottom: 15px;
+    } */
 
     .card-body {
         padding: 5px !important;
